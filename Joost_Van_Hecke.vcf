@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Van Hecke;Joost;;;
+FN:Joost Van Hecke
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:054 33 11 23
+TEL;TYPE=CELL:0485 60 27 10
+EMAIL;TYPE=INTERNET,WORK:joost@van-hecke.com
+END:VCARD
